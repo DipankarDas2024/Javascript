@@ -46,3 +46,5 @@ let gameCounter = 8
 
 console.log(gameCounter)
 
+console.log(null)
+console.log(undefined)
