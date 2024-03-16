@@ -1,9 +1,13 @@
 # Javascript
 ## Output
    console.log("Hello")  // Display Hello
+   
    console.Table({Variable1, Variable2, Variable3,....})  // Display value and variables table wise
+   
    console.log(variableName)
+   
    console.log(`Hello..${variableName}..`)
+   
    console.log("Value of x=" + x)
 
 ## 1. Variable
