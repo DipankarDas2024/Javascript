@@ -14,8 +14,11 @@
 ###    Variables are used to stored data in proamming languages like
        
  let x = "Javascript"; // x is the variable of let type
+ 
  let y = 60;  // y is the variable of let type
+ 
  const c = 67.8;  // c is the variable of const type
+
  const c = "Hello";  // c is the variable of const type
 ## 2. Variable type
  
